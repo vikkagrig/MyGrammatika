@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\sourcetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:sourcetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LexicalAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LexicalAnalyzer.cs",
+              "RelativeDocumentMoniker": "LexicalAnalyzer.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LexicalAnalyzer.cs",
+              "RelativeToolTip": "LexicalAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:18:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SourceText.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\SourceText.cs",
+              "RelativeDocumentMoniker": "SourceText.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\SourceText.cs",
+              "RelativeToolTip": "SourceText.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:18:59.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-04T08:18:59.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-04T08:18:59.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

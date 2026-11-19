@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\lr7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:lr7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\lr6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:lr6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\lr5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:lr5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\syntaxtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:syntaxtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\syntaxanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:syntaxanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\lr7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:lr7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0433\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\desktop\\lr1\\lr6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:lr6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\tabularmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:tabularmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\lr4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:lr4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D578C0-C73B-4022-8D6C-61FBBF286308}|LR1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SyntaxTree.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\SyntaxTree.cs",
+              "RelativeDocumentMoniker": "SyntaxTree.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\SyntaxTree.cs",
+              "RelativeToolTip": "SyntaxTree.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:04:20.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR7.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR7.cs",
+              "RelativeDocumentMoniker": "LR7.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR7.cs",
+              "RelativeToolTip": "LR7.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:41:49.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LR6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR6.cs",
+              "RelativeDocumentMoniker": "LR6.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LR6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:40:38.744Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LR5.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR5.cs",
+              "RelativeDocumentMoniker": "LR5.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR5.cs",
+              "RelativeToolTip": "LR5.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T06:09:22.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LR6.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR6.cs",
+              "RelativeDocumentMoniker": "LR6.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR6.cs",
+              "RelativeToolTip": "LR6.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T06:56:03.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:54:38.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SyntaxAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\SyntaxAnalyzer.cs",
+              "RelativeDocumentMoniker": "SyntaxAnalyzer.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\SyntaxAnalyzer.cs",
+              "RelativeToolTip": "SyntaxAnalyzer.cs",
+              "ViewState": "AgIAACMCAAAAAAAAAAAgwEECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T06:29:45.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LR7.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR7.cs",
+              "RelativeDocumentMoniker": "LR7.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR7.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LR7.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T06:06:17.307Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TabularMethods.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\TabularMethods.cs",
+              "RelativeDocumentMoniker": "TabularMethods.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\TabularMethods.cs",
+              "RelativeToolTip": "TabularMethods.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:40:03.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LR4.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR4.cs",
+              "RelativeDocumentMoniker": "LR4.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LR4.cs",
+              "RelativeToolTip": "LR4.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:35:47.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LexicalAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LexicalAnalyzer.cs",
+              "RelativeDocumentMoniker": "LexicalAnalyzer.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\LexicalAnalyzer.cs",
+              "RelativeToolTip": "LexicalAnalyzer.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAqwNwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:01:43.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432\u0430\\Desktop\\LR1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:45:07.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

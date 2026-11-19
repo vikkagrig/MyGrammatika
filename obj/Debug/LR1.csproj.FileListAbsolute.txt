@@ -1,0 +1,15 @@
+C:\Users\Виктория Григорьева\Desktop\LR1\bin\Debug\LR1.exe.config
+C:\Users\Виктория Григорьева\Desktop\LR1\bin\Debug\LR1.exe
+C:\Users\Виктория Григорьева\Desktop\LR1\bin\Debug\LR1.pdb
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.csproj.AssemblyReference.cache
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.Form1.resources
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.Properties.Resources.resources
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.csproj.GenerateResource.cache
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.exe
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.pdb
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.LR4.resources
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.exe.config
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.LR5.resources
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.LR6.resources
+C:\Users\Виктория Григорьева\Desktop\LR1\obj\Debug\LR1.LR7.resources
